@@ -1,0 +1,3134 @@
+[
+ {
+  "paper": "23_highlighted",
+  "page": 5,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "The vast majority of the coefficients are positive (85 per cent)",
+  "shape": "has_number",
+  "bbox": [
+   85.1,
+   60.8,
+   510.5,
+   92.8
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 5,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "most are both positive and statistically significant at the 5 per cent level (72 per cent).",
+  "shape": "has_number",
+  "bbox": [
+   85.1,
+   81.8,
+   510.5,
+   114.8
+  ],
+  "n_quads": 2,
+  "comment": "According to Log_meta_analysis.docx, it seems that this is computed as the fraction of coefficients that is significant at the 5 percent level, not both significant AND positive. Confirmation that all significant coefficients were also positive would resolve this, or a revised computation in the code if this is not the case."
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 5,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "The partial correlation is 0.10, and it is significant at the 5 per cent level1.",
+  "shape": "has_number",
+  "bbox": [
+   85.1,
+   103.8,
+   510.5,
+   135.8
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 17,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "3,159",
+  "shape": "has_number",
+  "bbox": [
+   240.2,
+   630.0,
+   288.3,
+   640.0
+  ],
+  "n_quads": 1,
+  "comment": "Author clarification requested: please provide a code section that computes this, or explain its source."
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 18,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "(α = 0.65).",
+  "shape": "has_number",
+  "bbox": [
+   176.2,
+   59.8,
+   235.2,
+   70.8
+  ],
+  "n_quads": 1,
+  "comment": "Author clarification requested: please provide a code section that computes this, or explain its source."
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 18,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Completing a college degree is associated with a 0.3 to 0.7 standard deviation increase in political trust.",
+  "shape": "has_number",
+  "bbox": [
+   85.1,
+   586.0,
+   510.5,
+   618.0
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 21,
+  "annot_type": "highlight",
+  "original_color": "#fff066",
+  "color_family": "yellow",
+  "treated_as": "yellow",
+  "text": "by a further 13%;",
+  "shape": "has_number",
+  "bbox": [
+   374.3,
+   514.0,
+   478.4,
+   525.0
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 21,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "by a further 13%;",
+  "shape": "has_number",
+  "bbox": [
+   374.3,
+   514.0,
+   481.4,
+   525.0
+  ],
+  "n_quads": 1,
+  "comment": "This value appears to be related to Figure 5, but the data reviewer is unable to find where this value is explained or produced in the log files."
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 22,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Those with a degree are around 9 per cent more politically trusting at age 42, as are those with at least two A-levels. However, this initial effect falls to around 5.5 per cent (for the high education model) or 6 per cent (for the medium education model) after matching for early life conditions15.",
+  "shape": "has_number",
+  "bbox": [
+   85.1,
+   271.9,
+   510.5,
+   347.9
+  ],
+  "n_quads": 4,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 32,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "N = 189 coefficients",
+  "shape": "has_number",
+  "bbox": [
+   249.2,
+   312.9,
+   331.3,
+   320.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 38,
+  "annot_type": "highlight",
+  "original_color": "#fff066",
+  "color_family": "yellow",
+  "treated_as": "yellow",
+  "text": "1349 356 240 53-62",
+  "shape": "has_number",
+  "bbox": [
+   385.3,
+   99.8,
+   492.4,
+   106.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 38,
+  "annot_type": "highlight",
+  "original_color": "#fff066",
+  "color_family": "yellow",
+  "treated_as": "yellow",
+  "text": "9793 1015 1729 51-66",
+  "shape": "has_number",
+  "bbox": [
+   385.3,
+   113.8,
+   492.4,
+   119.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 38,
+  "annot_type": "highlight",
+  "original_color": "#fff066",
+  "color_family": "yellow",
+  "treated_as": "yellow",
+  "text": "1098 393 156 22-66",
+  "shape": "has_number",
+  "bbox": [
+   385.3,
+   126.8,
+   492.4,
+   133.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 38,
+  "annot_type": "highlight",
+  "original_color": "#fff066",
+  "color_family": "yellow",
+  "treated_as": "yellow",
+  "text": "4368 234 349 18-26",
+  "shape": "has_number",
+  "bbox": [
+   385.3,
+   140.8,
+   492.4,
+   147.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "−0.093",
+  "shape": "has_number",
+  "bbox": [
+   355.3,
+   160.8,
+   385.3,
+   170.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "−0.180",
+  "shape": "has_number",
+  "bbox": [
+   395.3,
+   160.8,
+   424.4,
+   170.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(0.121) (0.232)",
+  "shape": "has_number",
+  "bbox": [
+   358.3,
+   176.8,
+   424.4,
+   186.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(0.114) (0.251)",
+  "shape": "has_number",
+  "bbox": [
+   355.3,
+   145.8,
+   424.4,
+   155.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.269* 0.079",
+  "shape": "has_number",
+  "bbox": [
+   356.3,
+   129.8,
+   421.4,
+   139.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "786 786",
+  "shape": "has_number",
+  "bbox": [
+   362.3,
+   209.8,
+   417.4,
+   217.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "698 698",
+  "shape": "has_number",
+  "bbox": [
+   282.2,
+   209.8,
+   337.3,
+   217.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "0.316* −0.072",
+  "shape": "has_number",
+  "bbox": [
+   276.2,
+   129.8,
+   344.3,
+   139.8
+  ],
+  "n_quads": 1,
+  "comment": "These values match those displyaed in Log_discordant_MTPS.docx, but the \"High education\" section and \"Medium education\" section seem to be switched here according to what is in the log file."
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "(0.129) (0.306)",
+  "shape": "has_number",
+  "bbox": [
+   274.2,
+   145.8,
+   344.3,
+   155.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "0.143 −0.066",
+  "shape": "has_number",
+  "bbox": [
+   278.2,
+   160.8,
+   345.3,
+   170.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "(0.121) (0.246)",
+  "shape": "has_number",
+  "bbox": [
+   274.2,
+   176.8,
+   344.3,
+   186.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.324 0.057",
+  "shape": "has_number",
+  "bbox": [
+   439.4,
+   160.8,
+   501.4,
+   170.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(0.236) (0.455)",
+  "shape": "has_number",
+  "bbox": [
+   435.4,
+   176.8,
+   505.4,
+   186.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.533* −0.051",
+  "shape": "has_number",
+  "bbox": [
+   436.4,
+   129.8,
+   505.4,
+   139.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(0.241) (0.531)",
+  "shape": "has_number",
+  "bbox": [
+   435.4,
+   145.8,
+   505.4,
+   155.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "424 424",
+  "shape": "has_number",
+  "bbox": [
+   443.4,
+   209.8,
+   497.4,
+   217.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.651* 0.038",
+  "shape": "has_number",
+  "bbox": [
+   195.2,
+   129.8,
+   260.2,
+   139.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.238* −0.022",
+  "shape": "has_number",
+  "bbox": [
+   195.2,
+   160.8,
+   264.2,
+   170.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "(0.057) (0.093)",
+  "shape": "has_number",
+  "bbox": [
+   194.2,
+   145.8,
+   264.2,
+   155.8
+  ],
+  "n_quads": 1,
+  "comment": "These values are correct according to Log_Main_SALTY.pdf, but seem to correspond to the \"Medium education\" Dataset according to Log_Analysis_SALTY.pdf. Clarification requested -- which configuration is the correct one?"
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "(0.058) (0.119)",
+  "shape": "has_number",
+  "bbox": [
+   198.2,
+   176.8,
+   264.2,
+   186.8
+  ],
+  "n_quads": 1,
+  "comment": "These values are correct according to Log_Main_SALTY.pdf, but seem to correspond to the \"High education\" Dataset according to Log_Analysis_SALTY.pdf. Clarification requested -- which configuration is the correct one?"
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "2030 2030",
+  "shape": "has_number",
+  "bbox": [
+   199.2,
+   209.8,
+   259.2,
+   217.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 42,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "Table 5: Co-twin models predicting political trust with education level.",
+  "shape": "caption",
+  "bbox": [
+   126.1,
+   72.8,
+   469.4,
+   82.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 43,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.174* 0.045",
+  "shape": "has_number",
+  "bbox": [
+   308.3,
+   160.8,
+   372.3,
+   169.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 43,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(0.073) (0.130)",
+  "shape": "has_number",
+  "bbox": [
+   307.3,
+   175.8,
+   375.3,
+   185.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 43,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "2848 2848",
+  "shape": "has_number",
+  "bbox": [
+   312.3,
+   207.8,
+   370.3,
+   216.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 43,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.335* 0.099",
+  "shape": "has_number",
+  "bbox": [
+   308.3,
+   129.8,
+   372.3,
+   138.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 43,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(0.074) (0.152)",
+  "shape": "has_number",
+  "bbox": [
+   307.3,
+   144.8,
+   375.3,
+   154.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "23_highlighted",
+  "page": 43,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 6: Co-sibling models predicting political trust with different measures of education. Dataset NLSAH (1) (2) High education 0.335* 0.099 (0.074) (0.152) Medium education 0.174* 0.045 (0.073) (0.130) Family fixed effects N Y Num. obs. 2848 2848 Note. *p < 0.05. The models include data on siblings from the National Longitudinal Study of Adolescent Health (NLSAH). The dependent variables are political trust indices. All models control for sex, birth year fixed effects, and interactions between sex and the birth year fixed effects. Standard errors are clustered at the family level. See page 17 in the Online Appendix for full models.",
+  "shape": "caption",
+  "bbox": [
+   85.1,
+   72.8,
+   510.5,
+   268.9
+  ],
+  "n_quads": 13,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 5,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "27 (40%)",
+  "shape": "has_number",
+  "bbox": [
+   485.4,
+   96.1,
+   525.7,
+   111.7
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 5,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "60 (90%)",
+  "shape": "has_number",
+  "bbox": [
+   398.2,
+   120.0,
+   440.2,
+   135.6
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 8,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "12.9%",
+  "shape": "has_number",
+  "bbox": [
+   388.8,
+   96.1,
+   413.7,
+   111.7
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 14,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "3.67%",
+  "shape": "has_number",
+  "bbox": [
+   197.2,
+   482.8,
+   223.5,
+   498.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 14,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "3.58%",
+  "shape": "has_number",
+  "bbox": [
+   144.3,
+   530.7,
+   169.0,
+   546.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 14,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "1.09%",
+  "shape": "has_number",
+  "bbox": [
+   277.0,
+   626.3,
+   302.6,
+   641.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 14,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "1.19%",
+  "shape": "has_number",
+  "bbox": [
+   402.0,
+   626.3,
+   425.0,
+   641.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 15,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "1.06%",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   96.1,
+   97.9,
+   111.7
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 15,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "0.99%",
+  "shape": "has_number",
+  "bbox": [
+   218.0,
+   96.1,
+   245.7,
+   111.7
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 15,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "70.2",
+  "shape": "has_number",
+  "bbox": [
+   385.5,
+   191.7,
+   405.1,
+   207.4
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 15,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "66.9",
+  "shape": "has_number",
+  "bbox": [
+   478.5,
+   191.7,
+   498.5,
+   207.4
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 15,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "71.2",
+  "shape": "has_number",
+  "bbox": [
+   428.3,
+   215.6,
+   445.3,
+   231.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 15,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "72.3",
+  "shape": "has_number",
+  "bbox": [
+   522.0,
+   215.6,
+   540.0,
+   231.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 18,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "1.2",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   523.6,
+   83.5,
+   539.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 18,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".56,",
+  "shape": "has_number",
+  "bbox": [
+   106.7,
+   523.6,
+   119.6,
+   539.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 19,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "129%",
+  "shape": "has_number",
+  "bbox": [
+   324.7,
+   191.7,
+   346.7,
+   207.4
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 19,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "63.4%",
+  "shape": "has_number",
+  "bbox": [
+   235.6,
+   359.1,
+   262.3,
+   374.7
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 19,
+  "annot_type": "highlight",
+  "original_color": "#db3425",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "47.4%",
+  "shape": "has_number",
+  "bbox": [
+   141.4,
+   550.3,
+   169.2,
+   566.0
+  ],
+  "n_quads": 1,
+  "comment": "47.3%"
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 19,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "40.1%",
+  "shape": "has_number",
+  "bbox": [
+   159.4,
+   574.2,
+   185.3,
+   589.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 19,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "[-0.064, -0.001].",
+  "shape": "has_number",
+  "bbox": [
+   255.8,
+   710.2,
+   316.9,
+   723.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 19,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "12.5%",
+  "shape": "has_number",
+  "bbox": [
+   97.3,
+   669.9,
+   120.8,
+   685.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 20,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "10.6%",
+  "shape": "has_number",
+  "bbox": [
+   120.4,
+   72.2,
+   146.2,
+   87.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 20,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "201%",
+  "shape": "has_number",
+  "bbox": [
+   517.4,
+   215.6,
+   540.0,
+   231.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 20,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "313%",
+  "shape": "has_number",
+  "bbox": [
+   91.5,
+   239.5,
+   111.6,
+   255.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 20,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "1,661%",
+  "shape": "has_number",
+  "bbox": [
+   245.6,
+   335.2,
+   274.7,
+   350.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 20,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "1,407%",
+  "shape": "has_number",
+  "bbox": [
+   396.8,
+   311.3,
+   428.2,
+   326.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 20,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".92.",
+  "shape": "has_number",
+  "bbox": [
+   407.9,
+   698.2,
+   424.3,
+   711.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 20,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".94.",
+  "shape": "has_number",
+  "bbox": [
+   225.5,
+   710.2,
+   241.6,
+   723.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 21,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "14.12%",
+  "shape": "has_number",
+  "bbox": [
+   195.6,
+   400.9,
+   224.2,
+   416.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 21,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "1.25%",
+  "shape": "has_number",
+  "bbox": [
+   323.1,
+   472.6,
+   346.6,
+   488.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 21,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "9.75%",
+  "shape": "has_number",
+  "bbox": [
+   444.7,
+   496.5,
+   470.5,
+   512.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 22,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "12.9%",
+  "shape": "has_number",
+  "bbox": [
+   339.4,
+   601.3,
+   364.2,
+   617.0
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 22,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "39%",
+  "shape": "has_number",
+  "bbox": [
+   84.0,
+   673.0,
+   104.0,
+   688.7
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 23,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "52%.",
+  "shape": "has_number",
+  "bbox": [
+   214.4,
+   72.2,
+   234.5,
+   87.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 23,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "(- 0.32",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   328.8,
+   540.0,
+   368.3
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 23,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".04);",
+  "shape": "has_number",
+  "bbox": [
+   199.4,
+   352.7,
+   214.1,
+   368.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 23,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "(-0.04",
+  "shape": "has_number",
+  "bbox": [
+   102.4,
+   376.6,
+   126.4,
+   392.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 23,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".02);",
+  "shape": "has_number",
+  "bbox": [
+   241.4,
+   376.6,
+   255.5,
+   392.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 23,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "(-0.06",
+  "shape": "has_number",
+  "bbox": [
+   75.8,
+   400.5,
+   99.8,
+   416.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 23,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".03).",
+  "shape": "has_number",
+  "bbox": [
+   208.5,
+   400.5,
+   221.8,
+   416.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 24,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".9.",
+  "shape": "has_number",
+  "bbox": [
+   497.4,
+   72.2,
+   505.7,
+   87.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 24,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".23",
+  "shape": "has_number",
+  "bbox": [
+   383.2,
+   120.0,
+   395.7,
+   135.6
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 24,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".26.",
+  "shape": "has_number",
+  "bbox": [
+   509.9,
+   120.0,
+   523.7,
+   135.6
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 24,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": "-.73,",
+  "shape": "has_number",
+  "bbox": [
+   133.4,
+   554.4,
+   151.3,
+   570.1
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 25,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".85.",
+  "shape": "has_number",
+  "bbox": [
+   499.0,
+   650.1,
+   511.4,
+   665.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 26,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".9",
+  "shape": "has_number",
+  "bbox": [
+   158.5,
+   120.0,
+   169.0,
+   135.6
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 26,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".94.",
+  "shape": "has_number",
+  "bbox": [
+   232.7,
+   143.9,
+   249.7,
+   159.6
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 26,
+  "annot_type": "highlight",
+  "original_color": "#068a1c",
+  "color_family": "other",
+  "treated_as": "yellow",
+  "text": ".93.",
+  "shape": "has_number",
+  "bbox": [
+   340.4,
+   710.2,
+   353.4,
+   723.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 32,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.011 0.012 0.012",
+  "shape": "has_number",
+  "bbox": [
+   349.5,
+   365.9,
+   462.8,
+   380.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 32,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.011 0.010 0.010",
+  "shape": "has_number",
+  "bbox": [
+   349.5,
+   409.2,
+   468.5,
+   423.6
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 32,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "-0.026 -0.026 -0.026",
+  "shape": "has_number",
+  "bbox": [
+   345.7,
+   452.5,
+   470.9,
+   466.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 32,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Outcome: Forecast yea on left position (1.) (2.) (3.) She/her [π1] 0.037 0.036 0.036 (0.005) (0.005) (0.005) Party arm [π2] -0.062 -0.063 -0.066 (0.006) (0.006) (0.006) She/her × Party arm [π3] -0.026 -0.024 -0.024 (0.007) (0.007) (0.007) Party arm× Democrat [π4] 0.166 0.167 0.173 (0.007) (0.007) (0.007) She/her× Party arm× Democrat [π5] -0.0004 -0.002 -0.002 (0.007) (0.007) (0.007) π1 + π3 0.011 0.012 0.012 (0.005) (0.005) (0.005) π1 + π3 + π5 0.011 0.010 0.010 (0.007) (0.007) (0.007) π3 + π5 -0.026 -0.026 -0.026 (0.007) (0.007) (0.007) Fixed-effects: Bill Yes Yes Politician Yes # Respondents 4,002 4,002 4,002 # Bills 40 40 40 # Respondents × Bills 160,080 160,080 160,080 R2 0.01897 0.05947 0.06185",
+  "shape": "has_number",
+  "bbox": [
+   137.9,
+   94.6,
+   474.1,
+   607.5
+  ],
+  "n_quads": 25,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 33,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "Figure 3:",
+  "shape": "caption",
+  "bbox": [
+   72.0,
+   626.5,
+   113.8,
+   640.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 34,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Figure 4: Bill Discrimination Parameters and Midpoints. Notes: This figure gives on the y-axis the esti- mated discrimination parameters (the distance between bills) and on the x-axis it gives bill midpoints (the ratio of the difficulty parameter and discrimination parameter for each bill), oriented so that low values indicate liberal positions and high values indicate conservative positions.",
+  "shape": "caption",
+  "bbox": [
+   72.0,
+   516.0,
+   540.0,
+   573.1
+  ],
+  "n_quads": 4,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 35,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "No Party Democrat Republican 0.141 0.013 0.098 [0.078,0.185] [-0.005,0.048] [0.055,0.154]",
+  "shape": "has_number",
+  "bbox": [
+   205.0,
+   355.3,
+   407.0,
+   398.3
+  ],
+  "n_quads": 7,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 35,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 3: Impact of Gender w Percent Forecast Vote Changes. Notes: This table gives the proportion of forecasts that change when we manipulate the gender of the hypothetical politicians from male to female. 95% block-bootstrap confidence interval in brackets.",
+  "shape": "caption",
+  "bbox": [
+   72.0,
+   411.8,
+   540.0,
+   454.5
+  ],
+  "n_quads": 3,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 36,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.520 Pr(D|M) Pr(D|F) −Pr(D|M) 0.391 [0.453,0.586] [0.32,0.451] 0.129 [0.044,0.218]",
+  "shape": "has_number",
+  "bbox": [
+   190.6,
+   76.0,
+   421.4,
+   116.5
+  ],
+  "n_quads": 6,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 36,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Pr(D|F)",
+  "shape": "text_only",
+  "bbox": [
+   198.9,
+   76.0,
+   239.2,
+   89.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 37,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Stephanie Bice Salazar Dale David Valadao Strong Brian Fitzpatr ρ = 0.9 Mary",
+  "shape": "has_number",
+  "bbox": [
+   247.0,
+   383.1,
+   441.6,
+   447.2
+  ],
+  "n_quads": 7,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 37,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Figure 5:",
+  "shape": "caption",
+  "bbox": [
+   72.0,
+   589.6,
+   113.5,
+   603.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 38,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Figure 6:",
+  "shape": "caption",
+  "bbox": [
+   72.0,
+   328.8,
+   112.6,
+   342.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.97",
+  "shape": "has_number",
+  "bbox": [
+   178.0,
+   326.5,
+   195.1,
+   338.3
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.94",
+  "shape": "has_number",
+  "bbox": [
+   183.1,
+   338.9,
+   190.2,
+   350.7
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.98",
+  "shape": "has_number",
+  "bbox": [
+   178.1,
+   351.3,
+   190.4,
+   363.0
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.99",
+  "shape": "has_number",
+  "bbox": [
+   178.0,
+   363.6,
+   195.1,
+   375.4
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.99",
+  "shape": "has_number",
+  "bbox": [
+   178.0,
+   376.0,
+   195.1,
+   387.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "1",
+  "shape": "has_number",
+  "bbox": [
+   185.1,
+   388.4,
+   188.0,
+   400.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.85",
+  "shape": "has_number",
+  "bbox": [
+   219.0,
+   338.9,
+   234.8,
+   350.7
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.95",
+  "shape": "has_number",
+  "bbox": [
+   218.9,
+   351.3,
+   234.9,
+   363.0
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.95",
+  "shape": "has_number",
+  "bbox": [
+   218.9,
+   363.6,
+   234.9,
+   375.4
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.97",
+  "shape": "has_number",
+  "bbox": [
+   218.4,
+   376.0,
+   235.4,
+   387.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.97",
+  "shape": "has_number",
+  "bbox": [
+   223.6,
+   388.4,
+   235.4,
+   400.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.91",
+  "shape": "has_number",
+  "bbox": [
+   219.2,
+   400.8,
+   234.5,
+   412.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "",
+  "shape": "text_only",
+  "bbox": [
+   218.4,
+   388.4,
+   223.6,
+   400.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.91",
+  "shape": "has_number",
+  "bbox": [
+   275.4,
+   351.3,
+   290.6,
+   363.0
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.94",
+  "shape": "has_number",
+  "bbox": [
+   279.5,
+   363.6,
+   291.7,
+   375.4
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.93",
+  "shape": "has_number",
+  "bbox": [
+   274.9,
+   376.0,
+   291.1,
+   387.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.94",
+  "shape": "has_number",
+  "bbox": [
+   274.3,
+   388.4,
+   291.7,
+   400.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.9",
+  "shape": "has_number",
+  "bbox": [
+   276.8,
+   400.8,
+   289.1,
+   412.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.98",
+  "shape": "has_number",
+  "bbox": [
+   348.2,
+   363.6,
+   365.2,
+   375.4
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.97",
+  "shape": "has_number",
+  "bbox": [
+   353.4,
+   376.0,
+   360.5,
+   387.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.98",
+  "shape": "has_number",
+  "bbox": [
+   348.2,
+   388.4,
+   365.2,
+   400.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.94",
+  "shape": "has_number",
+  "bbox": [
+   348.0,
+   400.8,
+   365.4,
+   412.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.95",
+  "shape": "has_number",
+  "bbox": [
+   413.4,
+   376.0,
+   429.4,
+   387.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.98",
+  "shape": "has_number",
+  "bbox": [
+   412.9,
+   388.4,
+   429.9,
+   400.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.95",
+  "shape": "has_number",
+  "bbox": [
+   413.4,
+   400.8,
+   429.4,
+   412.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.99",
+  "shape": "has_number",
+  "bbox": [
+   447.7,
+   388.4,
+   464.8,
+   400.2
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.92",
+  "shape": "has_number",
+  "bbox": [
+   447.8,
+   400.8,
+   464.6,
+   412.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.92",
+  "shape": "has_number",
+  "bbox": [
+   495.8,
+   400.8,
+   508.2,
+   412.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "0.95",
+  "shape": "has_number",
+  "bbox": [
+   178.6,
+   400.8,
+   194.6,
+   412.5
+  ],
+  "n_quads": 1,
+  "comment": "0.94"
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.97 Republicans 0.94 0.85 Independents/other 0.98 0.95 0.91 Women 0.99 0.95 0.94 0.98 Men 0.99 0.97 0.93 0.97 0.95 Follow politics 1 0.97 0.94 0.98 0.98 0.99",
+  "shape": "has_number",
+  "bbox": [
+   79.2,
+   326.5,
+   464.8,
+   400.2
+  ],
+  "n_quads": 6,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.91 0.9 0.94 0.95 0.92 0.92",
+  "shape": "has_number",
+  "bbox": [
+   219.2,
+   400.8,
+   512.7,
+   412.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "27_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#db3425",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "Table 5:",
+  "shape": "caption",
+  "bbox": [
+   72.0,
+   436.3,
+   106.3,
+   452.0
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 20,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Figure 2: Map of experimental and qualitative research sites",
+  "shape": "caption",
+  "bbox": [
+   151.1,
+   103.1,
+   456.3,
+   116.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 26,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 1: Descriptive statistics of outcome and heterogeneity variables",
+  "shape": "caption",
+  "bbox": [
+   145.1,
+   93.9,
+   501.3,
+   109.0
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 29,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "366 of 2,283",
+  "shape": "has_number",
+  "bbox": [
+   233.3,
+   297.2,
+   297.3,
+   310.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 29,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "161 in control versus 205 in treatment.",
+  "shape": "has_number",
+  "bbox": [
+   122.7,
+   324.8,
+   308.3,
+   338.1
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 29,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(35%) claimed to have been aware of the facilitator.24",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   324.8,
+   521.6,
+   365.7
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 29,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "A higher number of survey respondents, 285 of 1,124 in treatment areas (25%), reported knowing about the facilitator, compared to only 31 of 1,159 control respondents (3%).25",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   352.0,
+   532.2,
+   420.9
+  ],
+  "n_quads": 3,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 30,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 2: First-stage estimates for knowledge of facilitator",
+  "shape": "caption",
+  "bbox": [
+   159.0,
+   93.9,
+   453.0,
+   109.0
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 31,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "were 4% more likely to request benefits—a",
+  "shape": "has_number",
+  "bbox": [
+   294.6,
+   145.3,
+   485.9,
+   158.6
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 31,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "0.16 points higher on a 0-to-4 index",
+  "shape": "has_number",
+  "bbox": [
+   282.6,
+   421.5,
+   454.9,
+   434.8
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 31,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(p <0.1).",
+  "shape": "has_number",
+  "bbox": [
+   483.6,
+   449.1,
+   528.3,
+   462.4
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 31,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "represent 4-5 percentage points more likely to request information per avenue,",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   476.7,
+   537.5,
+   517.6
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 31,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "no increased likelihood of seeking assistance from clientelist brokers,",
+  "shape": "text_only",
+  "bbox": [
+   72.0,
+   531.9,
+   519.6,
+   572.8
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 32,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 3: Intent-to-treat e!ects on claims and non-clientelist information seeking",
+  "shape": "caption",
+  "bbox": [
+   122.4,
+   93.9,
+   489.6,
+   123.4
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 33,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 4: Conditional average treatment e!ects on claims and non-clientelist information seeking",
+  "shape": "caption",
+  "bbox": [
+   122.4,
+   93.9,
+   489.6,
+   123.4
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 34,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "four percentage points (p < 0.12).",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   242.0,
+   509.7,
+   282.9
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 34,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "five percentage points (p < 0.06)",
+  "shape": "has_number",
+  "bbox": [
+   334.4,
+   269.6,
+   503.4,
+   282.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 34,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(a 6-8% change or 30% change among compliers, see also Table 6). However, no treatment effects were observed in beliefs about eligibility limitations (columns 2, 3 and 4 in Tables 5 and 6):",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   324.8,
+   539.5,
+   393.3
+  ],
+  "n_quads": 3,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 34,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "views on whether receiving one benefit would exclude them from others, such as home improvement (Benefit 1) or small orchard assistance (Benefit 2), remained unchanged.",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   380.0,
+   538.5,
+   448.5
+  ],
+  "n_quads": 3,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 35,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 5: Intent-to-treat e!ects on perceived di\"culty and procedural knowledge",
+  "shape": "caption",
+  "bbox": [
+   130.1,
+   96.9,
+   481.9,
+   121.9
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 36,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 6: Conditional average treatment e!ects on perceived di\"culty and procedural knowledge",
+  "shape": "caption",
+  "bbox": [
+   130.1,
+   96.9,
+   481.9,
+   121.9
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 37,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "70% of respondents at baseline stated they felt “a little”, “some” or “a lot” of obligation to vote for the hypothetical broker’s party who helped someone access a welfare benefit.",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   117.7,
+   540.0,
+   186.2
+  ],
+  "n_quads": 3,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 38,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Figure 3: Distribution of indebtedness by treatment status",
+  "shape": "caption",
+  "bbox": [
+   155.5,
+   102.0,
+   456.5,
+   117.1
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "9% less likely (18% change with respect to the control or 20% of a standard deviation)",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   183.0,
+   540.0,
+   223.9
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "30-percentage-point decrease (74% change relative to the control).",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   265.8,
+   540.0,
+   306.7
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 39,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "11-percentage-point decrease in positive evaluations, representing a decrease of 18%- 42% relative to control levels for these variables.",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   486.6,
+   540.0,
+   527.5
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 40,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 7: Intent-to-treat e!ects on clientelist norms and partisanship",
+  "shape": "caption",
+  "bbox": [
+   176.3,
+   93.9,
+   525.2,
+   109.0
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 40,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Table 8: Conditional average treatment e!ects on clientelist norms and partisanship",
+  "shape": "caption",
+  "bbox": [
+   135.2,
+   395.4,
+   566.3,
+   410.5
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 41,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "five percentage points, and by 20 percentage points among compliers.28",
+  "shape": "has_number",
+  "bbox": [
+   113.9,
+   265.8,
+   455.3,
+   279.1
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 43,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Figure 4: Requests through non-clientelist avenues by treatment status",
+  "shape": "caption",
+  "bbox": [
+   123.9,
+   102.0,
+   488.1,
+   117.1
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 44,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "control (p < 0.01).",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   210.6,
+   161.0,
+   223.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 44,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "requests made from non-clientelist avenues in treatment localities, 26 were made with our facilitator's help, while the rest were made by citizens without help.",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   210.6,
+   540.0,
+   279.1
+  ],
+  "n_quads": 3,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 44,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "(6 percentage 44",
+  "shape": "has_number",
+  "bbox": [
+   477.8,
+   684.1,
+   543.0,
+   743.3
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 45,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "Among those with previous municipal experience, we detect no significant treatment effect (-5 percentage points, p < 0.7),",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   127.8,
+   540.0,
+   168.7
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 45,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "points increase in likelihood to request something, p <0.05).",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   73.1,
+   359.8,
+   86.9
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 46,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Figure 5: Treatment e!ects of request making by previous experience",
+  "shape": "caption",
+  "bbox": [
+   128.3,
+   102.0,
+   483.7,
+   117.1
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 47,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "among those who say they are “very close” to the broker, 27% also feel “a lot” of obligation to repay the party of a hypothetical broker who helps them request a benefit, in contrast to 12% among those who do not feel close at all.29",
+  "shape": "has_number",
+  "bbox": [
+   72.0,
+   172.9,
+   531.2,
+   241.4
+  ],
+  "n_quads": 3,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 47,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "show significant negative effects,",
+  "shape": "text_only",
+  "bbox": [
+   72.0,
+   310.9,
+   506.6,
+   351.8
+  ],
+  "n_quads": 2,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 47,
+  "annot_type": "highlight",
+  "original_color": "#eb4949",
+  "color_family": "red",
+  "treated_as": "yellow",
+  "text": "not statistically distinguishable,",
+  "shape": "text_only",
+  "bbox": [
+   173.6,
+   366.1,
+   316.9,
+   379.4
+  ],
+  "n_quads": 1,
+  "comment": ""
+ },
+ {
+  "paper": "28_highlighted",
+  "page": 48,
+  "annot_type": "highlight",
+  "original_color": "#7df066",
+  "color_family": "green",
+  "treated_as": "yellow",
+  "text": "Figure 6: Treatment e!ects of indebtedness by closeness and trust to broker",
+  "shape": "caption",
+  "bbox": [
+   111.1,
+   102.0,
+   500.9,
+   117.1
+  ],
+  "n_quads": 1,
+  "comment": ""
+ }
+]

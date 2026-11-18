@@ -1,0 +1,122 @@
+PROMPT LOG: instructions given to Claude and a brief description of each output
+(Prompts are translated into English. Only prompts with an actual instruction are listed.)
+
+------------------------------------------------------------
+1.
+Prompt: Please organize an English README for me, text version is fine, with these
+        parts:
+        1. Short introduction of the agent, including APIs, etc.
+        2. Brief overall pipeline (PDF -> extract text and coordinates -> find
+           candidates and classify -> highlight in yellow on the PDF -> output
+           checklist)
+        3. For each step, which tools are needed and how to implement it:
+           3.1 PDF
+           3.2 Extract text and coordinates
+           3.3 Candidate classification: content that needs replication (in-text
+               numbers, figures, tables); content that does not need replication
+               (study design). Leave [ ] blank if there are doubts.
+           3.4 Classifying candidates, including confidence intervals, etc.
+           3.5 Highlight on the PDF
+           3.6 Output checklist
+        4. Training set and test results
+        5. Next steps, including linking the flagged items to the code and data in
+           the replication package, or extending functionality.
+Output: A full README in markdown (text only) following that structure,
+        with [ ] placeholders for undecided items and an "Open questions for mentor"
+        section.
+
+------------------------------------------------------------
+2.
+Prompt: Build an agent that reads a journal-article PDF, extracts text and
+        coordinates, and classifies each in-text number against the "needs
+        replication" criteria in README 3.3. For items classified as needing
+        replication, highlight them in yellow on the original PDF; leave
+        uncertain items unhighlighted and flag them [ ] in the checklist.
+        Tools: a PDF text/coordinate extraction library + a PDF annotation
+        library (no more than 2 tools). Rules: follow the 3.3 classification
+        criteria strictly; do not modify anything on the PDF besides the
+        highlights. Output: (1) the highlighted PDF, (2) a checklist with
+        page number, original text, category, and confidence for each
+        flagged item.
+Output:
+
+------------------------------------------------------------
+3.
+Prompt: I added 3 training files in the Training folder. These PDFs were from
+        journal articles that are already replicated and published; treat all
+        different highlight colors as yellow. Extract those highlights as
+        standard answers. Test your script against the training files by first
+        removing all the highlights and then adding them back using your
+        script. Compare the results and report precision/recall. For every
+        mismatch (missed item or false positive), diagnose the cause: wrong
+        coordinate extraction, ambiguous classification rule, or missing tool
+        capability.
+Output:
+
+------------------------------------------------------------
+4a.
+Prompt: Based on your results, help me refine and summarize the categories of
+        in-text numbers that need replication, e.g.: 1. sample size,
+        2. percentages/decimals, 3. p-values and significance levels,
+        4. ranges, 5. textual quantities (e.g., "half", "one-third", "three
+        times", "shows a significant negative effect") that may need LLM
+        detection. Also add the exclusion categories: references, citation
+        years, cross-references like "Table 3", page numbers, section
+        numbers, enumeration numbers. Update README 3.3 "Candidate
+        classification: content that needs replication (in-text numbers,
+        figures, tables); content that does not need replication (study
+        design)" with these.
+Output:
+
+------------------------------------------------------------
+4b.
+Prompt: Now standardize the checklist output format into structured JSON with
+        fields: page, text, category, confidence, reasoning. Don't change the
+        classification rules in this step — only the output schema. Re-run the
+        test from step 3 on the same training files and report precision/
+        recall before vs. after this change, plus which specific cases flipped.
+Output:
+
+------------------------------------------------------------
+5.
+Prompt: Refine the classification rule to disambiguate four-digit numbers
+        between "year" (exclude) and "sample size / other replicable number"
+        (include). Use these context cues:
+
+        EXCLUDE as year if the number:
+        - appears inside a citation parenthesis, e.g. "(Smith, 2019)",
+          "(Smith et al., 2019; Jones, 2020)"
+        - is preceded by words like "in", "since", "as of", "published in",
+          "data from", "survey year", "between 2015 and 2020"
+        - falls in a plausible calendar-year range (1900-2099) AND has no
+          sample-size/measurement context nearby
+
+        INCLUDE (needs replication) if the number:
+        - is preceded/followed by sample-size markers: "n =", "N =",
+          "sample of", "respondents", "participants", "observations",
+          "firms", "households"
+        - appears in a table of summary statistics (even if it looks like a
+          year, e.g. a count column showing "2019" as a value, not a date)
+        - is a dollar amount, index value, or count with units
+          (e.g. "$2019 million", "2019 tons")
+
+        AMBIGUOUS -> leave [ ] blank and flag for manual review if:
+        - the number appears alone in a sentence with no surrounding context
+          cue (e.g. "The effect size was 2019.")
+        - both a year-like and count-like interpretation are plausible from
+          the sentence alone
+
+        Test against these real/dirty sentences and report your
+        classification + reasoning for each:
+        1. "Using a sample of 2019 firms, we estimate..."
+        2. "(Author, 2019) found similar results."
+        3. "Data were collected in 2019 from 1,845 households."
+        4. "The survey covered the period 2015-2020."
+        5. "Table 2 reports summary statistics for 2019 observations."
+        6. "Revenue grew to $2019 million in the third quarter."
+        7. "As of 2019, 2019 patients had enrolled in the study."
+        8. "We use 2020 census tract data for 2019 counties."
+Output:
+
+------------------------------------------------------------
+6.

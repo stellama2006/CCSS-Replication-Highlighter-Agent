@@ -1,0 +1,37 @@
+{
+ "23_highlighted": {
+  "pages": 43,
+  "annotation_types": {
+   "highlight": 42,
+   "ink": 17
+  },
+  "highlight_color_families": {
+   "green": 26,
+   "red": 11,
+   "yellow": 5
+  }
+ },
+ "27_highlighted": {
+  "pages": 46,
+  "annotation_types": {
+   "highlight": 93,
+   "ink": 19
+  },
+  "highlight_color_families": {
+   "other": 47,
+   "red": 4,
+   "green": 42
+  }
+ },
+ "28_highlighted": {
+  "pages": 61,
+  "annotation_types": {
+   "highlight": 39,
+   "ink": 7
+  },
+  "highlight_color_families": {
+   "green": 34,
+   "red": 5
+  }
+ }
+}
