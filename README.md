@@ -1,4 +1,4 @@
-# AJPS Replication Highlighter Agent
+# CCSS Replication Highlighter Agent
 
 An AI agent that reads a manuscript submitted to the American Journal of Political
 Science (AJPS) and highlights, in yellow, the in-text numbers, figures, and tables
